@@ -10,7 +10,6 @@ selected_model = st.sidebar.selectbox(
     "Choose a Model for Parsing:",
     [
         "llama3-8b-8192",
-        "distil-whisper-large-v3-en",
         "llama3-groq-70b-8192-tool-use-preview",
         "llama-3.1-8b-instant",
         "llava-v1.5-7b-4096-preview",
