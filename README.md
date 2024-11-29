@@ -10,7 +10,7 @@ A powerful and user-friendly web scraping application that leverages advanced AI
 - Responsive design for seamless user experience.
 
 ## Demo Video 📹
-Check out the demo of the AI Web Scraper App on YouTube: [Watch Now](https://youtu.be/xtFK5vU0Tac)
+Check out the demo of the AI Web Scraper App on YouTube: [Watch Now](https://youtu.be/yoGYn-pNqi4?si=Ua010LTUy6Qi94Gr)
 
 ## Live Demo 🚀
 Experience the live app on Hugging Face Spaces: [Try It Now](https://huggingface.co/spaces/usmanyousaaf/AI-Web-Scraper-App)
